@@ -67,7 +67,7 @@ GET /admin/dealers/countBySubscription
 
 
 
-Goal
+Goal - Project
 
 Build a multi-tenant Inventory module inside a Modular Monolith application that manages dealers and their vehicles.
 
